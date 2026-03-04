@@ -38,10 +38,6 @@ _flutter.buildConfig = {"engineRevision":"c29809135135e262a912cf583b2c90deb9ded6
 
 _flutter.loader.load({
   serviceWorkerSettings: {
-<<<<<<< HEAD
-    serviceWorkerVersion: "2259474105"
-=======
     serviceWorkerVersion: "48097938"
->>>>>>> 5e0318e (updated the canva link)
   }
 });

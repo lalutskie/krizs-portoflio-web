@@ -76107,11 +76107,7 @@ o=A.cs("View full details",g,n.x.acD(B.au,o-2,B.m))
 A.aV(a)
 return A.fU(g,new A.bQ(B.ix,A.e1(A.c([new A.iU(1,g),A.is(A.e1(A.c([i,new A.hs(new A.a9(0,200,48,1/0),k,g),A.e1(A.c([m,new A.ws(g),l,A.apF(A.eF(A.c([o,A.wu(B.Dd,B.au,g,g)],h),B.U,B.C,B.bd,0),new A.a_O(a),j)],h),B.av,B.C,B.X,5)],h),B.av,s,B.X,0),15),new A.iU(1,g)],h),B.av,B.C,B.X,0),g),B.r,B.bV,g,g,g,q,g,g,g,g,r)}}
 A.a_M.prototype={
-<<<<<<< HEAD
-$0(){new A.nd().lj("https://www.canva.com/design/DAGe43SdlGE/F8YGIymPvGxVZDFp_pxE_A/edit?utm_content=DAGe43SdlGE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton","url")},
-=======
 $0(){new A.nd().lj("https://www.canva.com/design/DAGe43SdlGE/b0uK8evVOM2Pjx1tukFwgg/view?utm_content=DAGe43SdlGE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdebdc88268","url")},
->>>>>>> 5e0318e (updated the canva link)
 $S:0}
 A.a_L.prototype={
 $1(a){if(a.v(0,B.S))return B.rQ.dV(0.1)
